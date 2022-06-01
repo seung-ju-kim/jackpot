@@ -107,8 +107,6 @@ export default function TeamIntro() {
       <Box
         sx={{
           mb: 15,
-          textShadow:
-            "0 0 42px #529, 0 0 82px #529, 0 0 92px #529, 0 0 102px #529, 0 0 151px #529",
         }}
       >
         <Typography variant="h3">Team7 JackPot</Typography>

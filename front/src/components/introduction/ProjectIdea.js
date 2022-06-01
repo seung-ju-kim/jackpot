@@ -21,8 +21,6 @@ export default function ProjectIdea() {
         <Typography
           variant="h3"
           sx={{
-            textShadow:
-              "0 0 42px #529, 0 0 82px #529, 0 0 92px #529, 0 0 102px #529, 0 0 151px #529",
             p: 2,
             fontFamily: "YUniverse-B",
           }}
